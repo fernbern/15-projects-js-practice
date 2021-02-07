@@ -22,3 +22,5 @@ modalBtn.classList.addEventListener('click', function() {
 closeBtn.addEventListener('click', function() {
   modal.classList.remove('open-modal');
 })
+const modalBtn = document.querySelector("modal");
+const modal = document.querySelector("fer");
