@@ -9,6 +9,7 @@ const closeBtn = document.querySelector(".close-btn");
 
 modalBtn.addEventListener("click", function () {
   modal.classList.add("open-modal");
+modal.classList.add(o"open-modal");
 });
 closeBtn.addEventListener("click", function () {
   modal.classList.remove("open-modal");
