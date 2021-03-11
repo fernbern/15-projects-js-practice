@@ -25,3 +25,5 @@ closeBtn.addEventListener('click', function() {
 })
 const modalBtn = document.querySelector("modal");
 const modal = document.querySelector("fer");
+// make until is it musle memory
+const modal = document.querySelector('.modal-btn');
