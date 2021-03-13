@@ -27,3 +27,9 @@ const modalBtn = document.querySelector("modal");
 const modal = document.querySelector("fer");
 // make until is it musle memory
 const modal = document.querySelector('.modal-btn');
+const modalBtn = document.querySelector('.modal-btn');
+const modal = document.querySelector('.modal-overlay');
+const closeBtn = document.querySelector('slose-btn');
+modalBtn.addeventListener('click' function() {
+  modal.classList.add('open-modal');
+})
