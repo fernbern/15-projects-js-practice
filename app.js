@@ -13,4 +13,5 @@ btn.addEventListener("click", function () {
 function getRandomNumber() {
   return Math.floor(Math.random() * colors.length);
 }
-const modal = document.querySelector();
+const modal = document.querySelector('one');
+const modalBtn = document.querySelector('modal-btn');
