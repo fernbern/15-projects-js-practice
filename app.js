@@ -15,3 +15,4 @@ function getRandomNumber() {
 }
 const modal = document.querySelector('one');
 const modalBtn = document.querySelector('modal-btn');
+console.log('this');
