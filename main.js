@@ -167,9 +167,12 @@ const submitBtn = document.querySelector('.submit-btn');
 const container = document.querySelector('.grocery-list');
 const list = document.querySelector('.grocery-list');
 const clearBtn = document.querySelector('.clear-btn');
+let form;
 let editElement;
 let editFlag = false;
 let editID = "";
+console.log(16);
+form.addEventListener('submit', addItem);
 form.addEventListener('submit', addItem);
 clearBtn.addEventListener('click', clearItems);
 window.addEventListener('DOMContentLoaded', setupItem);
@@ -196,4 +199,14 @@ function addItem(e) {
         displayAlert('Valje changed', 'success');
         
     }
+}
+var wakeuptime = 7;
+var noon = 12;
+var lunchtime = 12;
+var naptime = lunchtime + 2;
+var partytime;
+var evening = 10;
+var showCurrentTime = function()
+{
+    var clock = document.getElementById('clock');
 }
