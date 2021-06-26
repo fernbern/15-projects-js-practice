@@ -210,3 +210,4 @@ var showCurrentTime = function()
 {
     var clock = document.getElementById('clock');
 }
+console.write(12);
