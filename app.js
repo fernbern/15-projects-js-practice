@@ -19,3 +19,7 @@ const modalBtn = document.querySelector('modal-btn');
 console.log('this');
 const color = ['green'];
 const go = 'game of tag';
+function multiplyNumber(num1, num2) {
+  var answer = num1 * num 2;
+  return "This is the answer " + answer;
+}
