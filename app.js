@@ -23,3 +23,6 @@ function multiplyNumber(num1, num2) {
   var answer = num1 * num 2;
   return "This is the answer " + answer;
 }
+function changeWork(){
+  let work = '9 to 5';
+}
