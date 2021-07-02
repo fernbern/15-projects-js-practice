@@ -26,3 +26,4 @@ function multiplyNumber(num1, num2) {
 function changeWork(){
   let work = '9 to 5';
 }
+map() include() find()
