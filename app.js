@@ -27,3 +27,5 @@ function changeWork(){
   let work = '9 to 5';
 }
 map() include() find()
+var x = 90;
+let = 180;
