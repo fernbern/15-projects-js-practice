@@ -211,3 +211,4 @@ var showCurrentTime = function()
     var clock = document.getElementById('clock');
 }
 console.write(12);
+map(); pop(); shift();
