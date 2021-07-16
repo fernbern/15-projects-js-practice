@@ -3,6 +3,7 @@ const btn = document.getElementById("btn");
 const color = document.querySelector(".color");
 const coloresus = ['yellow','greem'];
 const app = 'string';
+map(x => x * 8);
 btn.addEventListener("click", function () {
   const randomNumber = getRandomNumber();
   // console.log(randomNumber);
