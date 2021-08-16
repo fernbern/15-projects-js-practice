@@ -14,3 +14,4 @@ closeBtn.addEventListener("click", function () {
   modal.classList.remove("open-modal");
 });
 console.log('Hello Javascript');
+const fruits = [1,2,3,4,5]; // array
