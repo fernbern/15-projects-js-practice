@@ -241,6 +241,7 @@ nav {
   transition: var(--transition);
 }
 .show-links {
+  cursor: pointer;
   height: 200px;
 }
 .links a {
