@@ -62,3 +62,8 @@ scrollLinks.forEach((link) => {
     linksContainer.style.height = 0;
     });
 });
+const speaking = function(){
+    let score = 12 * 8;
+    return score * 100;
+}
+speaking();
