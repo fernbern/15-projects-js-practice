@@ -30,3 +30,4 @@ function changeWork(){
 map() include() find()
 var x = 90;
 let = 180;
+const modal = document.querySelector('btn');
